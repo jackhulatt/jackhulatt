@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jackjfh1
+- 👋 Hi, I’m @jackhulatt
 - 👀 I’m interested in ... starting to learn how to code and beginning my journey!
 - 🌱 I’m currently learning ... the basics!
 - 💞️ I’m looking to collaborate on ... stuff!
